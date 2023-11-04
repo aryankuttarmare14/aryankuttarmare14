@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ***
 
-- 📫 How to reach me [aryan.kuttarmare2002@gmail.com](mailto:aryan.kuttarmare2002@gmail.com)
+- 📫 To reach me, you can send an email to [aryan.kuttarmare2002@gmail.com](mailto:aryan.kuttarmare2002@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
