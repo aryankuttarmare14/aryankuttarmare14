@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryankuttarmare14](https://github.com/aryankuttarmare14)
 
-- 💬 Ask me about ********
+- 💬 Ask me about ***
 
-- 📫 How to reach me **aryan.kuttarmare2002@gmail.com**
+- 📫 How to reach me [aryan.kuttarmare2002@gmail.com](mailto:aryan.kuttarmare2002@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
