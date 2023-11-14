@@ -1,6 +1,6 @@
 ![logo](https://github.com/aryankuttarmare14/aryankuttarmare14/blob/main/Black%20and%20Gold%20Simple%20Modern%20Geometric%20Law%20Consultant%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Aryan Kuttarmare</h1>
+<h1 align="center">Hi, I'm Aryan Kuttarmare</h1>
 <h3 align="center">Passionate Frontend Developer | Aspiring Data Scientist | Crafting digital magic from India to the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankuttarmare14&label=Profile%20views&color=0e75b6&style=flat" alt="aryankuttarmare14" /> </p>
