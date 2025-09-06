@@ -1,4 +1,4 @@
-![logo](https://github.com/aryankuttarmare14/aryankuttarmare14/blob/main/Black%20and%20Gold%20Simple%20Modern%20Geometric%20Law%20Consultant%20LinkedIn%20Banner.png)
+![logo](https://github.com/aryankuttarmare14/aryankuttarmare14/navybluegeometrictechnologylinkedInbanner.png)
 
 <h1 align="center">Hi, I'm Aryan Kuttarmare</h1>
 <h3 align="center">Passionate Frontend Developer | Aspiring Data Scientist | Crafting digital magic from India to the world</h3>
